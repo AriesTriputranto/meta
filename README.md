@@ -32,4 +32,4 @@ Furthermore, this repository is home to the [Contributor Guidelines](CONTRIBUTIN
 for [formatting commit messages](COMMITTING.md), and [Maintainer Guidelines](MAINTAINERS.md) for
 those who are an editor or deputy editor of a WHATWG standard.
 follow it on step specification
-website:_ https://en.wikipedia.org/Wiki/meta
+website:_ https://en.wikipedia.org/wiki/meta
